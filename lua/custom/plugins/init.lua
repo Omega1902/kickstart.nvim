@@ -16,4 +16,7 @@ vim.opt.textwidth = 120
 -- highlights column after wrapping line
 vim.opt.colorcolumn = '+1'
 
+-- default to 4 spaces
+vim.opt.shiftwidth = 4
+
 return {}
